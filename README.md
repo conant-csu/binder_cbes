@@ -1,5 +1,5 @@
 # binder_cbes
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/conant-csu/binder_cbes)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/conant-csu/binder_cbes/main)
 
 Remote retrevial of enzymes annotated with reactions of chemicals of interest using ChEBI, Rhea and UniProtKB SparkQL queries
 
